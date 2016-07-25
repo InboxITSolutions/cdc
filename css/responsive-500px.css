@@ -1,0 +1,124 @@
+
+@media screen and (max-width:500px){
+.about-main p{
+	width: 100%;
+}
+
+.navbar-brand img{
+	margin-top: 5px !important;
+	height: 30px;
+}
+
+.header{
+	width: auto;
+}
+
+.fixed{
+	width: 106%;
+	height: auto;
+}
+
+.fixed .navbar-brand img{
+	height: 41px;
+	margin:0;
+}
+
+.navbar-nav .open .dropdown-menu > li > a:hover {
+	background: none !important;
+}
+
+.dropdown-menu > li > a{
+	color: #fff !important;
+}
+
+
+.org-chart img{
+	width: 100%;
+	height: auto;
+}
+
+
+.org-chart img{
+	width: 100%;
+	height: auto;
+}
+
+a.thumbnail iframe{
+	width: 100% !important;
+	
+}
+
+
+.description{
+	width: 100%;
+}
+.cover img{
+	width: 43%;
+height: 130px;
+padding: 3px 3px 3px 5px;
+}
+
+.intro-font{
+	margin: 13px 0px 15px 0px !important;
+	font-size: 16px;
+}
+
+#rotate{
+	font-size: 20px;
+	max-height: 40px;
+}
+
+.mouse-icon{
+	width: 6%;
+}
+
+.contact-info iframe{
+	width: 100%;
+}
+
+.services{
+	padding-left: 15px !important;
+	padding-right: 15px !important;
+}
+
+.btn-default{
+	margin: 8px 2.8em;
+}
+
+.submit{
+	width: 90% !important;
+}
+
+.contact-us{
+	padding:50px 5px !important;
+}
+
+.bod-1 name h4{
+	width: 70%;
+	margin-left: 46px;
+}
+
+.bod-2 name h4{
+	width: 70%;
+	margin-left: 46px;
+}
+
+.bod-3 name h4{
+	width: 70%;
+	margin-left: 46px;
+}
+
+.bod-4 name h4{
+	width: 70%;
+	margin-left: 46px;
+}
+
+.content-wrapper img{
+	height: 320px !important;
+}
+
+.cd-slider{
+	padding: 0 !important;
+}
+
+}

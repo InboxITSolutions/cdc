@@ -1,0 +1,17 @@
+@media screen and (max-width:800px){
+.about-main p{
+	width: 100%;
+}
+
+.navbar-brand img{
+	margin: 0px;
+	height: 40px;
+	top: 0;
+}
+
+.description{
+	width: 100%;
+}
+
+
+}
