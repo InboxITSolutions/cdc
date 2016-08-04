@@ -9,7 +9,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="nav-brand" href="index.php"><img src="images/logo.png"></a>
+          <a class="nav-brand" href="index.php"><img src="images/cdc-logo.png" title="CDC Group"></a>
         </div>
         <div class="collapse navbar-collapse navHeaderCollapse pull-right">
           <ul class="nav navbar-nav navbar-left navbar-fixed right hide-on-med-and-down">

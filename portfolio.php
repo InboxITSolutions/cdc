@@ -171,6 +171,7 @@
 <script src="js/jquery-2.1.4.js"></script>
 <script src="js/jquery.mobile.custom.min.js"></script>
 <script src="js/main.js"></script> <!-- Resource jQuery -->
+<script type="text/javascript" src="js/login-popup.js"></script>
 
 </body>
 </html>

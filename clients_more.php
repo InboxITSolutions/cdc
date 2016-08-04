@@ -1,7 +1,7 @@
 <html>
 <head>
-	<title>Gallery | CDC GROUP</title>
-	<meta charset="utf-8">
+    <title>Client Number One | CDC GROUP</title>
+    <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="icon" href="images/fav.png" type="image/x-icon">
     <link rel="stylesheet" type="text/css" href="font-awesome/css/font-awesome.css">
@@ -23,7 +23,7 @@
 <div class="container">
     <div class="row">
         <div class="col-xs-12 col-md-12 col-sm-12">
-                 <h3 align="center" style="margin: 25px 0px 0px !important;"><span class="index_topic" style="line-height:50px;">OUR GALLERY</span></h3>
+            <h3 align="center" style="margin: 25px 0px 0px !important;"><span class="index_topic" style="line-height:50px;">Client Number One</span></h3>
         <div class="gallery">
              
             <div class="filter">

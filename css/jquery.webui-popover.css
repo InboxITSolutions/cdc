@@ -83,6 +83,7 @@
   transform: none;
   opacity: 1;
   filter: alpha(opacity=100);
+  /*position: fixed;*/
 }
 .webui-popover .webui-popover-content {
   padding: 9px 14px;

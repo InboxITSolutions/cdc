@@ -101,7 +101,7 @@
         <br/>
         <h3 align="center"><span class="index_topic">ORGANIZATION CHART</span></h3>
         <br/>
-        <img src="assets/org-chart.jpg">
+        <img src="assets/org-chart.png">
         <br/><br/>
       </div>
     </div>
@@ -228,6 +228,7 @@
       </div>
     </div>
   </div>
+</section>
 </section>
 <?php include 'includes/footer.php';?>
 <script type="text/javascript">
