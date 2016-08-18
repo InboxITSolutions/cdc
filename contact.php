@@ -20,17 +20,8 @@
     <link rel="stylesheet" type="text/css" href="css/animate.css">
     <link rel="stylesheet" type="text/css" href="css/jquery.webui-popover.css">
     <script type="text/javascript" src="js/jquery.webui-popover.js"></script>
-    <style type="text/css">
-    .header{
-      position: relative !important;
-      background: #000;
-    }
-
-    .nav-header{
-      padding: 0 !important;
-    }
-    </style>
-  </head>
+    
+</head>
 <body>
   <?php include'includes/header.php';?>
 <section id="contact">

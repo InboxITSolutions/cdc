@@ -298,7 +298,7 @@ a:hover{
     position: relative;
     float: left;
     width: 26vw;
-    margin: 0 0 0 2vw;
+    margin: 7px 0 0 2vw;
     top: 50%;
     -webkit-transform: translateX(400%) translateY(-50%) rotate(-10deg);
     -moz-transform: translateX(400%) translateY(-50%) rotate(-10deg);

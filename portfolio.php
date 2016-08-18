@@ -7,6 +7,7 @@
     <link rel="stylesheet" type="text/css" href="font-awesome/css/font-awesome.css">
     <link rel="stylesheet" type="text/css" href="css/style.css">
     <!--<script type="text/javascript" src="js/jquery-2.1.4.js"></script>-->
+    <script src="js/jquery-2.1.4.js"></script>
     <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="bootstrap/css/bootstrap-theme.min.css">
     <script src="bootstrap/js/bootstrap.min.js"></script>
@@ -17,20 +18,9 @@
     <script type="text/javascript" src="js/main.js"></script>
     <script type="text/javascript" src="js/portfolio.js"></script>
     <script type="text/javascript" src="js/modernizr.js"></script>
-    <script type="text/javascript" src="js/hovereffect_portfolio.js"></script>
     <link rel="stylesheet" type="text/css" href="css/portfolio.css">
     <link rel="stylesheet" type="text/css" href="css/jquery.webui-popover.css">
     <script type="text/javascript" src="js/jquery.webui-popover.js"></script>
-    <style type="text/css">
-    .header{
-      position: relative !important;
-      background: #000;
-    }
-
-    .nav-header{
-      padding: 0 !important;
-    }
-    </style>
 </head>
 <body>
 <?php include'includes/header.php';?>
@@ -168,7 +158,8 @@
         </div>
         <a href="#0" class="close cd-img-replace">Close</a>
     </div> <!-- .cd-project-content -->
-<script src="js/jquery-2.1.4.js"></script>
+<?php include'includes/footer.php';?>
+</body>
 <script src="js/jquery.mobile.custom.min.js"></script>
 <script src="js/main.js"></script> <!-- Resource jQuery -->
 <script type="text/javascript" src="js/login-popup.js"></script>

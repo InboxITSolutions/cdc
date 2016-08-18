@@ -18,23 +18,18 @@
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">SERVICES<b class="caret"></b></a>
               <ul class="dropdown-menu">
-                <li><a href="index.php#services" class="smoothscroll">PRINT AD</a></li>
-                <li><a href="index.php#services" class="smoothscroll">RADIO JINGGLE</a></li>
-                <li><a href="index.php#services" class="smoothscroll">TVC</a></li>
+                <li><a href="services.php#body">PRINT AD</a></li>
+                <li><a href="services.php#body" >RADIO JINGGLE</a></li>
+                <li><a href="services.php#printad-more">TVC</a></li>
+                <li><a href="services.php#radio-jinggle-more" >PRE-PRESS</a></li>
+                <li><a href="services.php#tvc-more" >RE-SEARCH</a></li>
               </ul>
             </li>
-            <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown">GALLERY<b class="caret"></b></a>
-              <ul class="dropdown-menu">
-                <li><a href="gallery.php#header">AUDIO</a></li>
-                <li><a href="gallery.php#header">VIDEO</a></li>
-                <li><a href="gallery.php#header">PHOTO</a></li>
-              </ul>
-            </li>
+            <li><a href="gallery.php">GALLERY</a></li>
             <li ><a href="contact.php" class="smoothscroll">CONTACT</a></li>
             <li>
               <a href="#" id="login">
-                <login style="padding: 5px 10px; background-color: rgba(226, 10, 23, 0.83); border-radius:5px;">
+                <login style="padding: 5px 10px; background-color: rgba(226, 10, 23, 0.83); border-radius:3px;">
                   <i class="fa fa-sign-in" aria-hidden="true"></i>&nbsp;Login
                 </login>
               </a>
